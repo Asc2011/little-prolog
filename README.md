@@ -23,15 +23,15 @@ ometa LittleProlog
   functor     = lower:first bodyChars:body               -> first + body
   bodyChars   = ( letter | '_' )+:arr                    -> arr.join ''
 ```  
-  
-  
-##### install 
+
+
+##### install
 ```
-git clone 
+git clone https://github.com/Asc2011/little-prolog.git
+npm install
 ```
   
-##### build & run
-  
+##### build & run 
 ```
 # to build source & grammar
 cake all
