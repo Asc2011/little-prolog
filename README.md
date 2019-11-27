@@ -46,13 +46,13 @@ npm run demo
   
 This will run the [zebra-puzzle](https://en.wikipedia.org/wiki/Zebra_Puzzle ). It is included in all three parser-implementations.
   
---
-[1] [Prolog-Interpreter on github](https://github.com/curiosity-driven/prolog-interpreter )
-[2] [Meta-Coffee on github](https://github.com/xixixao/meta-coffee )
-[3] [OMeta on Wikipedia](https://en.wikipedia.org/wiki/OMeta )
-[4] _OMeta: an Object-Oriented Language for Pattern Matching ∗_ [paper/PDF, via Wikipedia](http://tinlizzie.org/~awarth/papers/dls07.pdf )
+-- <br />
+[1] [Prolog-Interpreter on github](https://github.com/curiosity-driven/prolog-interpreter ) <br />
+[2] [Meta-Coffee on github](https://github.com/xixixao/meta-coffee ) <br />
+[3] [OMeta on Wikipedia](https://en.wikipedia.org/wiki/OMeta ) <br />
+[4] _OMeta: an Object-Oriented Language for Pattern Matching ∗_ [paper/PDF, via Wikipedia](http://tinlizzie.org/~awarth/papers/dls07.pdf ) <br />
   
   
--- related
-1. A successor to OMeta/JS [Ohm-Project on github](https://github.com/harc/ohm )
+-- related <br />
+1. A successor to OMeta/JS [Ohm-Project on github](https://github.com/harc/ohm ) <br />
   
