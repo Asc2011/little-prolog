@@ -1,0 +1,21 @@
+{
+  "name": "tiny-prolog",
+  "version": "1.0.0",
+  "description": "A tiny Prolog-Parser in JS/CS",
+  "readmeFilename": "Readme.md",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node ./index.js"
+  },
+  "keywords": [
+    "prolog",
+    "coffee",
+    "ometa"
+  ],
+  "author": "Andreas Schöller",
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "^2.4.1",
+    "metacoffee": "^0.4.0"
+  }
+}
